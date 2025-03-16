@@ -1,0 +1,16 @@
+filename = 'hooklib-3.7.jar'
+name = 'HookLib'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '636c175022f248bf8ea42916bf55cf85e71f0f16'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5842679
+project-id = 1001572

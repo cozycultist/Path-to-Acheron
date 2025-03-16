@@ -1,0 +1,16 @@
+filename = 'specialai-1.1.0_for_mc1.12.2.jar'
+name = 'Special AI'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '603d1ed507df3e9dda0a4bdb5692e328767d6f5c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2686991
+project-id = 224301

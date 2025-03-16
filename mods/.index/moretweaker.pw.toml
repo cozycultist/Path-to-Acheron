@@ -1,0 +1,16 @@
+filename = 'MoreTweaker-1.0.19.jar'
+name = 'MoreTweaker'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '6d21707e5344650d592d16ceadeeb663b7b8afdd'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3226142
+project-id = 336569

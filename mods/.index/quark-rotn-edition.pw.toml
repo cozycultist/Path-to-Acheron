@@ -1,0 +1,16 @@
+filename = 'QuarkRotN-r1.6-189.jar'
+name = 'Quark: RotN Edition'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'eef34248b4e4d0313ad94a2fdfcd22345261d2f2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5594720
+project-id = 417392

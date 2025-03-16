@@ -1,0 +1,16 @@
+filename = 'vanillaanvilrepair-1.1.jar'
+name = 'Vanilla Anvil Repair'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '0558898d05bf8e98f3202007fa171a0211695aa0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2943808
+project-id = 376040

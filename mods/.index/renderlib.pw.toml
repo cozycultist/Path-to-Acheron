@@ -1,0 +1,16 @@
+filename = 'RenderLib-1.12.2-1.4.1.jar'
+name = 'RenderLib'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c9c73aa0182f8b61cb22d43e638c9e96e535c485'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6218131
+project-id = 624967

@@ -1,0 +1,16 @@
+filename = 'ReachFix-1.12.2-1.1.1.jar'
+name = 'Reach Fix'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '1a01edd6e2749ed5adc04897c68b9d121519bcba'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6218135
+project-id = 556777

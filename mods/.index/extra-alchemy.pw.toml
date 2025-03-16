@@ -1,0 +1,16 @@
+filename = 'extraalchemy-forge-1.12-build11-0.5.4.jar'
+name = 'Extra Alchemy'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e20b4ed19c9836be188df35b1d84b155ce4493fc'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2937550
+project-id = 247357

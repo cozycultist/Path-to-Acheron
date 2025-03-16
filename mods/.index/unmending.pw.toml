@@ -1,0 +1,16 @@
+filename = 'Unmending-1.0-2.jar'
+name = 'Unmending'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '1c766a9efddade89ad38ce1b66b8bd991d0ecbf3'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2663443
+project-id = 310087

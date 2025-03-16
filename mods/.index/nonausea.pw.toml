@@ -1,0 +1,16 @@
+filename = 'NoNausea-MC1.12-1.0.jar'
+name = 'NoNausea'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12', '1.12.1', '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '13761bbd7e7db28fe2a626d812a286760a1aad6a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2432422
+project-id = 226035

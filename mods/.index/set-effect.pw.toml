@@ -1,0 +1,16 @@
+filename = 'seteffect-1.12.2-2.4.1.jar'
+name = 'Set Effect'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '6eaf9748120ec5e2fd27abb482e927cc5a7e8419'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2643817
+project-id = 291612

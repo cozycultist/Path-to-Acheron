@@ -1,0 +1,16 @@
+filename = 'fermiumasm-5.24.jar'
+name = 'FermiumASM'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '932d945e1b18a9720f72ec822862838e15d3df81'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5889652
+project-id = 971247

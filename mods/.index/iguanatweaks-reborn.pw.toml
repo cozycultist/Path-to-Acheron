@@ -1,0 +1,16 @@
+filename = 'IguanaTweaksReborn-1.5.2-mc1.12.x.jar'
+name = "Insane's Survival Overhaul (aka IguanaTweaks Reborn)"
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12', '1.12.1', '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ad81ee92a1a795cda09de97a28a2f837fd0e06bd'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3283799
+project-id = 285690

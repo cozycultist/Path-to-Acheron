@@ -1,0 +1,16 @@
+filename = 'Deeper-Depths-1.12.2-1.0.2.jar'
+name = 'Deeper Depths'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '6100fa915a30991403fdcd6381cfc02934a02d89'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5892539
+project-id = 1101129

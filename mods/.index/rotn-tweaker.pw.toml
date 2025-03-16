@@ -1,0 +1,16 @@
+filename = 'RotN-Tweaker-0.1.0.jar'
+name = 'RotN Tweaker'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'aac2f49ce5d25468ee7bf96d62f57ce7340556cd'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5276236
+project-id = 443657

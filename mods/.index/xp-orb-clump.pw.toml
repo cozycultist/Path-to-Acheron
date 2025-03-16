@@ -1,0 +1,16 @@
+filename = 'Fixeroo-2.3.5-hotfix.1.jar'
+name = 'Fixeroo'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e38496ab290ce08f64e098c8fc3d7ce1806d8827'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6197064
+project-id = 633806

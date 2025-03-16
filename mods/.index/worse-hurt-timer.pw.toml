@@ -1,0 +1,16 @@
+filename = 'WorseHurtTimer-1.12.2-1.5.0.1.jar'
+name = 'Worse Hurt Timer'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '874faa678eeed8ae4f449ea41c8b2a66d44694fc'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5603482
+project-id = 1079060

@@ -1,0 +1,16 @@
+filename = 'potiontweaker-1.3.jar'
+name = 'Potion Tweaker'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b4fcf41927794ecf861dd5e9c12b0bba69aa9927'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3603507
+project-id = 492247
